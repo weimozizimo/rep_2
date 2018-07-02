@@ -10,4 +10,5 @@ public class HelloDao {
     public void m1(){
 
     }
+    public void m2(){}
 }
